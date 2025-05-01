@@ -1,5 +1,6 @@
 # 🧬 Exploratory Data Analysis on Cancer Data
 ![image](https://github.com/user-attachments/assets/246c765c-a80b-468d-9fa0-312864252bef)
+
 This project performs exploratory data analysis (EDA) and predictive modeling on cancer-related datasets. The goal is to understand cancer incidence patterns globally and use regression to estimate cancer rates based on incidence data.
 
 ## 📌 Project Summary
