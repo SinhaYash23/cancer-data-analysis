@@ -35,6 +35,15 @@ Used **Simple Linear Regression** from `scikit-learn` to predict the `'Cancer ra
 - `'Including NMSC Rate'`
 - `'Excluding NMSC Rate'`
 
+## 📷 Sample Visualizations
+![image](https://github.com/user-attachments/assets/bdfbdf40-c561-4ca6-a7d1-89bad043ed3c)
+
+![image](https://github.com/user-attachments/assets/55079a9b-578c-4f21-9439-25f48e3a2393)
+
+![image](https://github.com/user-attachments/assets/d356a5c6-09b6-41ed-9ef8-c612b87dd569)
+
+![image](https://github.com/user-attachments/assets/1528c03b-110a-4f8f-9fa7-2e9e49d94c32)
+
 ### Modeling Workflow:
 
 1. Initialize and train the model on training data
